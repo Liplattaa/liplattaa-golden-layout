@@ -20,3 +20,5 @@ Add `golden-layout` to your bower.json, or [download](https://golden-layout.com/
 
 ## License
 MIT
+
+## 
