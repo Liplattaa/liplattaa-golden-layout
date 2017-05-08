@@ -4,7 +4,7 @@ node_js:
 before_script:
 - npm install -g grunt-cli
 before_deploy:
-- npm install typings
+- npm install -g typings
 deploy:
   provider: npm
   email: sekowska.k@gmail.com
