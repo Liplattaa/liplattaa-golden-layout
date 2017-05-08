@@ -12,7 +12,7 @@ before_deploy:
 deploy:
   provider: npm
   email: sekowska.k@gmail.com
-  api_key: 95c9e2bd-8858-47d8-8ba3-f348a267bf1a
+  api_key:
     secure: "k8oc9S4qX1NDiSe33p7n8oryCfwozT3I7+8OZZqzTtvE97REJemfb5crdOClG9y5puEedTXks74QGsKYKiJu52RqK3Gy14O1BCLFlnlnzPlWMsz6uF8CN3IGU2Y2BadswWiguM5/kNhzdbhwmI/kicL82D0y3+2rpHTgxB2+oZx6AEdvwdFEjJ42wx143nmx4Oehjav8/kUdum6w33Ay7d35JBV3pKEz0epfXv4mXKBSL5nBiQYbyiqJ+KDV0ClJGo2okG+zi6HSBKjTaLUzCeSZDAnssM7am+tA0zBi+Iidm7JXsUQWKKh5V8wiqmpI+nUwZLnJ/B5CE/KiMLK+GGk2ayGDKHHTcxBKQPtuptQomWa7aScBEQLxyK9Vlxj+Azz//4syi8LnE7qJ8O3TVZOGIZxVYSfgvz7WjzKIEA7lrEg4QgdH9K+rsTMKSwtHfOfM0F96FKaZ8Ygt2MHxSxTFpcyFByel5Kyb73OwmGlDUyhCovnTnoSAe1aeiZhOn2SboUMf7iCeshfHZiAH8A0xH/luPhA4yRVaQY38DvfgBrdClAzM+G46rJLNEGM1OSVs0EKZURC9zksez4vJfFN5AHH4NzVy9FeTsMgz+dxngolJlQAyRHAXvc30N4K/2Nb8F96D5wZIAg1PAprQWeC+S4bEJOKA1rF9Ys6qL+0="
   on:
     repo: Liplattaa/liplattaa-golden-layout
