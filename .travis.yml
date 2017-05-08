@@ -5,6 +5,7 @@ before_script:
 - npm install -g grunt-cli
 before_deploy:
 - npm install -g typings
+- npm install -g tslint
 deploy:
   provider: npm
   email: sekowska.k@gmail.com
