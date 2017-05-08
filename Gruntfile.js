@@ -44,7 +44,7 @@ module.exports = function( grunt ) {
 					beforeRelease: [ 'less', 'gulp:gl', 'gulp:glmin' ],
 					tagName: 'v<%= version %>',
 					github: {
-						repo: 'deepstreamIO/golden-layout',
+						repo: 'Liplattaa/liplattaa-golden-layout',
 						accessTokenVar: 'GITHUB_ACCESS_TOKEN'
 					}
 				}

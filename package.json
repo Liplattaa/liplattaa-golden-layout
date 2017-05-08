@@ -1,5 +1,5 @@
 {
-  "name": "golden-layout",
+  "name": "liplattaa-golden-layout",
   "version": "1.5.7",
   "author": "deepstreamHub GmbH",
   "license": "MIT",
@@ -60,7 +60,7 @@
     "url": "https://github.com/deepstreamIO/golden-layout/issues"
   },
   "homepage": "https://github.com/deepstreamIO/golden-layout",
-  "npmName": "golden-layout",
+  "npmName": "liplattaa-golden-layout",
   "npmFileMap": [
     {
       "basePath": "/dist/",
