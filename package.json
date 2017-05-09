@@ -1,6 +1,6 @@
 {
   "name": "liplattaa-golden-layout",
-  "version": "1.5.14",
+  "version": "1.5.15",
   "author": "deepstreamHub GmbH",
   "license": "MIT",
   "devDependencies": {
@@ -40,6 +40,7 @@
     "jquery": "*"
   },
   "scripts": {
+    "build": "gulp build",
     "test": "grunt test",
     "tslint": "tslint \"**/*.ts\" -e \"node_modules/**\" -e \"typings/**\"",
     "prepublish": "typings install",
